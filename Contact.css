@@ -1,0 +1,224 @@
+ .u-section-1 {
+  min-height: 495px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 650px;
+  left: 0;
+  right: auto;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: YeongdeokHaeparang;
+  margin: 9px 105px 0 calc(((100% - 1140px) / 2) + 677px);
+}
+
+.u-section-1 .u-image-2 {
+  width: 590px;
+  height: 449px;
+  margin: 9px 0 0 auto;
+}
+
+.u-section-1 .u-text-2 {
+  font-family: YeongdeokHaeparang;
+  font-weight: 700;
+  font-size: 1.875rem;
+  margin: -296px calc(((100% - 1140px) / 2) + 451px) 0 calc(((100% - 1140px) / 2) + 91px);
+}
+
+.u-section-1 .u-text-3 {
+  font-family: YeongdeokHaeparang;
+  margin: 110px calc(((100% - 1140px) / 2) + -93px) 34px calc(((100% - 1140px) / 2) + 635px);
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-1 {
+    margin-left: calc(((100% - 940px) / 2) + 558px);
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: calc(((100% - 940px) / 2) + 342px);
+    margin-left: calc(((100% - 940px) / 2));
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: calc(((100% - 940px) / 2) + -93px);
+    margin-left: calc(((100% - 940px) / 2) + 535px);
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-1 {
+    margin-left: calc(((100% - 720px) / 2) + 427px);
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: calc(((100% - 720px) / 2) + 122px);
+    margin-left: calc(((100% - 720px) / 2));
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: calc(((100% - 720px) / 2) + -93px);
+    margin-left: calc(((100% - 720px) / 2) + 425px);
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-1 {
+    min-height: 447px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: calc(((100% - 540px) / 2) + 320px);
+  }
+
+  .u-section-1 .u-image-2 {
+    width: 540px;
+    height: 411px;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 1rem;
+    margin-top: -258px;
+    margin-right: calc(((100% - 540px) / 2));
+    margin-left: calc(((100% - 540px) / 2));
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: calc(((100% - 540px) / 2) + -93px);
+    margin-left: calc(((100% - 540px) / 2) + 335px);
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-1 {
+    margin-left: calc(((100% - 340px) / 2) + 201px);
+  }
+
+  .u-section-1 .u-image-2 {
+    width: 340px;
+    height: 259px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: -106px;
+    margin-right: calc(((100% - 340px) / 2));
+    margin-left: calc(((100% - 340px) / 2));
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: calc(((100% - 340px) / 2) + -93px);
+    margin-left: calc(((100% - 340px) / 2) + 235px);
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 481px;
+}
+
+.u-section-2 .u-video-1 {
+  width: 570px;
+  height: 321px;
+  margin: 16px 0 0 auto;
+}
+
+.u-section-2 .embed-responsive-1 {
+  position: absolute;
+}
+
+.u-section-2 .u-text-1 {
+  font-family: YeongdeokHaeparang;
+  font-weight: 700;
+  margin: -294px auto 0 48px;
+}
+
+.u-section-2 .u-text-2 {
+  font-family: YeongdeokHaeparang;
+  margin: 16px auto 60px 55px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 424px;
+  }
+
+  .u-section-2 .u-video-1 {
+    width: 470px;
+    height: 264px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-top: -238px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 351px;
+  }
+
+  .u-section-2 .u-video-1 {
+    width: 340px;
+    height: 191px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-top: -165px;
+  }
+}.u-section-3 .u-sheet-1 {
+  min-height: 491px;
+}
+
+.u-section-3 .u-video-1 {
+  width: 570px;
+  height: 321px;
+  margin: 30px 0 0 auto;
+}
+
+.u-section-3 .embed-responsive-1 {
+  position: absolute;
+}
+
+.u-section-3 .u-text-1 {
+  font-family: YeongdeokHaeparang;
+  font-weight: 700;
+  margin: -308px auto 0 48px;
+}
+
+.u-section-3 .u-text-2 {
+  font-family: YeongdeokHaeparang;
+  margin: 19px auto 60px 55px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 434px;
+  }
+
+  .u-section-3 .u-video-1 {
+    width: 470px;
+    height: 264px;
+  }
+
+  .u-section-3 .u-text-1 {
+    margin-top: -251px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 361px;
+  }
+
+  .u-section-3 .u-video-1 {
+    width: 340px;
+    height: 191px;
+  }
+
+  .u-section-3 .u-text-1 {
+    margin-top: -178px;
+  }
+}@font-face {
+  font-family: 'YeongdeokHaeparang';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/YeongdeokHaeparang.ttf);
+}
